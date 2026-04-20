@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CidadesESGInteligentes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56e7dc004e7c287b054d43a12a1048bd5d63cbaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("CidadesESGInteligentes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CidadesESGInteligentes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
